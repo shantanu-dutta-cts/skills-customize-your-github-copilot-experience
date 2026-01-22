@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs using FastAPI",
+      "description": "Build a modern REST API using FastAPI with CRUD operations, data validation, and filtering capabilities.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-01-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Master text processing with strings, file I/O, and text manipulation techniques.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-01-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
